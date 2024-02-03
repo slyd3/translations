@@ -1,8 +1,6 @@
 export enum Language {
   // English
-  ENGLISH = "en",
-
-  // Foreign Languages
+  ENGLISH = "en"
 }
 
 export interface LanguageEntry {
@@ -56,7 +54,5 @@ export const Languages: { [key in Language]: LanguageEntry } = {
     i18n: "en",
     dayjs: "en",
     verified: true,
-  },
-
-  // Foreign languages
+  }
 };
