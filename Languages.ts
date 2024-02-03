@@ -61,6 +61,6 @@ export const Languages: { [key in Language]: LanguageEntry } = {
     emoji: "🇭🇺",
     i18n: "hu",
     dayjs: "hu",
-    verified: true,
+    verified: false,
   }
 };
