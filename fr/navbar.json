@@ -4,7 +4,7 @@
   "navbar.news": "Actualités",
   "navbar.contact": "Nos Contacts",
   "navbar.faq": "FAQ",
-  "navbar.btnLogin": "Login",
-  "navbar.btnServers": "Servers",
+  "navbar.btnLogin": "Se Connecter",
+  "navbar.btnServers": "Serveurs",
   "navbar.btnDashboard": "Dashboard"
 }
