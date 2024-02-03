@@ -8,9 +8,6 @@ The following table shows a list of languages, their contributors and maintainer
 
 Please note that this table **only includes languages that are currently available in the app**.
 
-|   | Language | Maintainers | Contributors |
-|:-:|---|---|---|
-|🇺🇸|English (Simplified) / en|[@GravityScriptsV2](https://github.com/GravityScriptsV2)||
-|🇭🇺|Hungarian / hu|||
+{{TABLE}}
 
 If you would like to maintain a language, please [open an issue](https://github.com/Venoxity-Development/translations/issues/new/choose) with your request.
