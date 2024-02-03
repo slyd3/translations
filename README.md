@@ -10,6 +10,6 @@ Please note that this table **only includes languages that are currently availab
 
 |   | Language | Maintainers | Contributors |
 |:-:|---|---|---|
-|🇺🇸|English (Simplified) / en|||
+|🇺🇸|English (Simplified) / en|[@GravityScriptsV2](https://github.com/GravityScriptsV2)||
 
 If you would like to maintain a language, please [open an issue](https://github.com/Venoxity-Development/translations/issues/new/choose) with your request.
