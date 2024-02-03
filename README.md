@@ -8,6 +8,8 @@ The following table shows a list of languages, their contributors and maintainer
 
 Please note that this table **only includes languages that are currently available in the app**.
 
-{{TABLE}}
+|   | Language | Maintainers | Contributors |
+|:-:|---|---|---|
+|🇺🇸|English (Simplified) / en|||
 
 If you would like to maintain a language, please [open an issue](https://github.com/Venoxity-Development/translations/issues/new/choose) with your request.
