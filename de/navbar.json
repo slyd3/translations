@@ -1,10 +1,10 @@
 {
-  "navbar.home": "Home",
-  "navbar.about": "About Us",
-  "navbar.news": "News",
-  "navbar.contact": "Contact",
+  "navbar.home": "Startseite",
+  "navbar.about": "Über uns",
+  "navbar.news": "Neuigkeiten",
+  "navbar.contact": "Kontaktiere uns",
   "navbar.faq": "FAQ",
-  "navbar.btnLogin": "Login",
+  "navbar.btnLogin": "Anmelden",
   "navbar.btnServers": "Servers",
   "navbar.btnDashboard": "Dashboard"
 }
