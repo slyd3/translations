@@ -3,6 +3,9 @@ export enum Language {
   ENGLISH = "en",
 
   // Foreign Languages
+  FRENCH = "fr",
+  GERMAN = "de",
+  HUNGARIAN = "hu"
 }
 
 export interface LanguageEntry {
